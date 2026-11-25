@@ -11,10 +11,10 @@ Extract the ZIP, then open `index.html` in Chrome or Edge. For reliable embedded
 5. Visit the published URL and test the mobile menu, light/dark mode, project previews, resume download and direct email. Copy the live URL into OnlineJobs.ph's portfolio field.
 
 ## Personalize before sharing publicly
-- Photo: upload `assets/profile.jpg`. In `script.js` set `PHOTO_ENABLED=true`. The monogram remains the fallback if the photo fails to load.
+- Photo: the supplied professional portrait is included as `assets/profile.jpg`, with `PHOTO_ENABLED=true` in `script.js`. To change it, replace that JPEG. The monogram remains the fallback if the photo fails to load.
 - Existing portfolio samples: place sanitized original files and preview PDFs or images in `assets/projects/`. Edit the `projects` array in `script.js`: fill in `preview` and `file`, using relative paths such as `assets/projects/dashboard.pdf` and `assets/projects/dashboard.xlsx`. Update the relevant description to remove “Existing sample to be added.” For forms, use a screenshot or anonymized PDF rather than private response links. Do not share personal student information or internal records.
 - Demonstrations: these are AI-assisted starter materials based on a fictional coffee shop. Review, recreate, personalize and test them yourself; describe your actual contribution accurately. The social sample is HTML, not a native Canva project. The customer sample is CSV; import into Excel/Sheets and add filtering and validation as instructed on its preview page.
 - Resume: the PDF uses provided information only; confirm duties, dates, and availability and replace the PDF in `assets` if revised.
 - Email: the form intentionally uses a `mailto:` draft, not a server or a submission database. A configured email app is needed; the visitor must send the draft themselves. A hosted form service may be connected separately if desired.
 - Public data: your supplied name, email, city/province, credentials, and availability will be publicly visible. Verify applicable DepEd/Civil Service requirements before taking additional employment.
-- The GitHub username and profile photo were not supplied. No website has been published from this package.
+- The GitHub username was not supplied. No website has been published from this package.
