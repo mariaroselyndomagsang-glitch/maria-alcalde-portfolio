@@ -1,0 +1,11 @@
+﻿Customer ID,Name,Email,Segment,Status,Follow-up date,Next action
+C-001,Alex Rivera,alex@example.com,Retail,New,2026-11-26,Send welcome email
+C-002,Jamie Cruz,jamie@example.com,Wholesale,In progress,2026-11-27,Confirm order details
+C-003,Taylor Santos,taylor@example.com,Retail,Resolved,2026-11-24,Archive inquiry
+C-004,Morgan Lee,morgan@example.com,Events,New,2026-11-28,Send event options
+C-005,Casey Lim,casey@example.com,Retail,In progress,2026-11-26,Follow up
+C-006,Riley Garcia,riley@example.com,Wholesale,Resolved,2026-11-23,Record outcome
+C-007,Jordan Reyes,jordan@example.com,Events,New,2026-11-29,Request guest count
+C-008,Avery Tan,avery@example.com,Retail,In progress,2026-11-27,Send pricing
+C-009,Drew Flores,drew@example.com,Wholesale,New,2026-11-30,Send product list
+C-010,Sam Mendoza,sam@example.com,Retail,Resolved,2026-11-25,Close request
